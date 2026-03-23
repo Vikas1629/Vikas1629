@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--           ZAINAB KHATOON — GitHub Profile README             -->
+<!--           VIKAS KHAIRNAR — GitHub Profile README             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
