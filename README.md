@@ -24,7 +24,7 @@
 
 > *"I don't just read data — I make it speak."*
 
-I'm **Zainab Khatoon**, a results-driven **Data Analyst & Power BI Developer** based in **Bangalore, India**, transitioning from a software engineering background into the world of **Data Analytics & Data Engineering**.
+I'm **Vikas Khairnar**, a results-driven **Data Analyst & Power BI Developer** based in **Pune, India**, transitioning from a software engineering background into the world of **Data Analytics & Data Engineering**.
 
 With hands-on experience in **Power BI**, **MS Fabric**, **SQL**, and **Python**, I specialize in designing **dashboards that tell stories**, automating reporting pipelines, and translating complex datasets into clear business intelligence.
 
