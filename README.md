@@ -181,7 +181,7 @@ With hands-on experience in **Power BI**, **MS Fabric**, **SQL**, and **Python**
 ### 🔴 Healthcare Blood Test Dashboard — Tableau
 > Analyzing patient blood test data to identify trends, flag anomalies, and support clinical decisions.
 
-🔗 [View Repository](https://github.com/zainabkhtn786/healthcare-blood-test-dashboard-tableau) &nbsp;|&nbsp; 📊 [View Dashboard](#)
+🔗 [View Repository](https://github.com/TheDataVikas/healthcare-blood-test-dashboard-tableau) &nbsp;|&nbsp; 📊 [View Dashboard](#)
 
 **Tech Stack:** `Tableau` `Excel` `Data Cleaning` `Healthcare Analytics`
 
@@ -190,7 +190,7 @@ With hands-on experience in **Power BI**, **MS Fabric**, **SQL**, and **Python**
 ### 🟡 Bike Sales Dashboard — Excel
 > End-to-end Excel dashboard tracking sales performance, customer demographics, and regional trends.
 
-🔗 [View Repository](https://github.com/zainabkhtn786/Bike-Sales-Dashboard-EXCEL-project-) &nbsp;|&nbsp; 📈 [View Dashboard](#)
+🔗 [View Repository](https://github.com/TheDataVikas/Bike-Sales-Dashboard-EXCEL-project-) &nbsp;|&nbsp; 📈 [View Dashboard](#)
 
 **Tech Stack:** `Excel` `VLOOKUP` `PivotTables` `Charts`
 
@@ -225,7 +225,7 @@ With hands-on experience in **Power BI**, **MS Fabric**, **SQL**, and **Python**
 | 🏗️ What is Medallion Architecture? (Simple Explanation) | Coming Soon | 📝 |
 | 🐍 5 Pandas Tricks Every Data Analyst Should Know | Coming Soon | 📝 |
 
-> 💬 *Blogs will be published on [LinkedIn](https://www.linkedin.com/in/zainab-khatoon-944756223) and Medium. Follow along!*
+> 💬 *Blogs will be published on [LinkedIn](https://www.linkedin.com/in/thedatavikas) and [Medium](https://thedatavikas.medium.com/). Follow along!*
 
 <br/>
 
@@ -235,15 +235,15 @@ With hands-on experience in **Power BI**, **MS Fabric**, **SQL**, and **Python**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zainabkhtn786&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=F2C811&text_color=a8b2d8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=TheDataVikas&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=F2C811&text_color=a8b2d8" height="165" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabkhtn786&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDataVikas&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8" height="165" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zainabkhtn786&theme=midnight-purple&hide_border=true&background=0d1117&ring=e94560&fire=F2C811&currStreakLabel=a8b2d8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheDataVikas&theme=midnight-purple&hide_border=true&background=0d1117&ring=e94560&fire=F2C811&currStreakLabel=a8b2d8" />
 
 </div>
 
@@ -255,9 +255,9 @@ With hands-on experience in **Power BI**, **MS Fabric**, **SQL**, and **Python**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-khatoon-944756223)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thedatavikas)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-zainab.khatoon%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainab.khatoon@email.com)
+[![Email](https://img.shields.io/badge/Email-TheDataVikas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TheDataVikas@email.com)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-1DA462?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
